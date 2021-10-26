@@ -1,8 +1,6 @@
 # code-refactor
 Homework for 6/2/2021
 
-## Note to my graders: I wasn't able to fix issues with my github repository until after I had completed the assignment, so descriptive commit messages are lacking.
-
 ## My contribution
 --Changed the webpage title to the company name for browsers and search engines.
 --Ensured that all headers appeared in sequential order in HTML
